@@ -90,7 +90,7 @@ Alongside my software engineering studies, I have practical experience in websit
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/in/weronika-zielinska-a77114380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="www.linkedin.com/in/weronika-zielinska-a77114380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 
