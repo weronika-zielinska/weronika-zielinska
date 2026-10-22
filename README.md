@@ -83,7 +83,7 @@ A console-based application simulating a bus ticket booking system, with custome
 Alongside my software engineering studies, I have practical experience in website development, website management and digital content creation.
 
 - **[WoodenBoy](https://wooden-boy.co.uk)** — Website design and customisation using a website builder.
-- **[EMPM](https://emmp.co.uk)** — WordPress website development and management, alongside graphic design and digital communications work for a charity supporting Eastern European migrants in the UK.
+- **[EMPP](https://empp.co.uk)** — WordPress website development and management, alongside graphic design and digital communications work for a charity supporting Eastern European migrants in the UK.
 
 
 
