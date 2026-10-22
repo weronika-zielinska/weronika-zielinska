@@ -43,6 +43,13 @@ I'm currently looking for a Placement Year or Summer Internship where I can appl
 - **Web Development:** WordPress, website builders
 - **Graphic Design:** Canva, GIMP
 
+ ### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=weronika-zielinska&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+</p>
+
+
 ### 💻 Featured Projects
 
 ### Airport Search System — C++
@@ -86,11 +93,6 @@ Alongside my software engineering studies, I have practical experience in websit
   <a href="https://linkedin.com/in/in/weronika-zielinska-a77114380"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=weronika-zielinska&layout=compact&theme=tokyonight&title_color=8957e5&icon_color=8957e5&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
 
 ### 💭 Dev Quote
 
@@ -100,4 +102,6 @@ Alongside my software engineering studies, I have practical experience in websit
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/weronika-zielinska">weronika-zielinska</a></i></p>
+
+
 
